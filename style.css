@@ -8,6 +8,8 @@ body{
     height: 200vh;
     width: 100vw;
     /* border: 2px solid red; */
+     background-attachment: fixed;
+    scroll-behavior: auto;
 }
 header{
     height: 4.4%;
